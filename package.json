@@ -1,7 +1,7 @@
 {
-  "name": "@fiiud/utils",
+  "name": "@restood/utils",
   "version": "1.0.0",
-  "description": "Fiiud utilities project",
+  "description": "Restood utilities",
   "main": "index.js",
   "author": "Guillermo Lopez",
   "license": "ISC",
